@@ -6,13 +6,13 @@
     <title>Cartão Digital - London Café</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
-<!-- ----------------------------- fontawesome ----------------------------- -->
+<!------------------------------- fontawesome ------------------------------->
     <script src="https://kit.fontawesome.com/eb1d35694d.js" crossorigin="anonymous"></script>
 </head>
 <body>
-<!-- ----------------------------------------------------------------------- -->
+<!--------------------------------------------------------------------------->
 <!--                             Container único                             -->
-<!-- ----------------------------------------------------------------------- -->
+<!--------------------------------------------------------------------------->
     <div class="container">
         <div class="card">
             <div class="sneaker">
