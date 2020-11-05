@@ -12,7 +12,8 @@
 
     </head>
     <body>
-        <div class="container-fluid">
+    <section class="colored-section" id="title">
+            <div class="container-fluid">
             <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgb(133, 60, 1);">
                 <a class="navbar-brand" href="#">London Café</a>
                 <button
@@ -44,5 +45,6 @@
                 </div>
             </nav>
         </div>
+</section>
     </body>
 </html>
