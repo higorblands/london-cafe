@@ -13,7 +13,7 @@
     </head>
     <body>
         <div class="container-fluid">
-            <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #e3f2fd;">
+            <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgb(133, 60, 1);">
                 <a class="navbar-brand" href="#">London Café</a>
                 <button
                     class="navbar-toggler"
