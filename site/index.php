@@ -4,7 +4,6 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Bem vindo ao London Café</title>
-        //CDN Boostrap
         <link
             rel="stylesheet"
             href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
@@ -13,9 +12,8 @@
 
     </head>
     <body>
-        //NAV BAR
         <div class="container-fluid">
-            <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+            <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #e3f2fd;">
                 <a class="navbar-brand" href="#">London Café</a>
                 <button
                     class="navbar-toggler"
